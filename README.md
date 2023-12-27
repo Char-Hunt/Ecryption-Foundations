@@ -23,4 +23,4 @@ Symmetric key algorithms are very fast and can encrypt large amounts of data.
 
 The main drawback of symmetric key algorithms is distribution. Once a piece of data is locked or encrypted it can be sent publicly. However, the key or password must also be given to the recipient. The key is distributed to someone so that the information can be read. If the key is sent with the data or sent in plain text through another clearly visible channel, then it can be easily intercepted and the private data will be easily decrypted.
 
-A known solution to this dilemma is to use symmetric key algorithms to encrypt the data and then to use asymmetric key algorithms (or "public key cryptography") to encrypt only the key which unlocks the encrypted information.
+A known solution to this dilemma is to use symmetric key algorithms to encrypt the data and then to use asymmetric key algorithms (or "public key cryptography") to encrypt only the key which unlocks the encrypted information. This kind of [asymmetrical encryption](https://github.com/Char-Hunt/Learning-Info-Sec#types-of-encryption) is also known as a "non-identical key pair."
