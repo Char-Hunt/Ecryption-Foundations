@@ -6,9 +6,9 @@ Understanding Symmetric-Key Algorithms
 
 A Symmetric-Key Algorithm uses a string of data for encryption or decryption of information. This string performs like a real-world key which can unlock or lock a door. It is often referred to as a "key" or a "password". With symmetric-key algorithms, the same key is used for encrypting and for decrypting (This is why it's called "symmetric").
 
-Anyone who knows or possesses the key can decrypt the information. Anyone who **does not know** or possess the key **cannot decryp**t it easily. It cannot be easily unscrambled like a substitution cipher. Someone would need to use advanced techniques to "break" the encryption.
+So, if anyone who knows or possesses the key can decrypt the information. Anyone who **does not know** or possess the key **cannot decryp**t it easily. It cannot be easily unscrambled like a substitution cipher. Someone would need to use advanced techniques to "break" the encryption.
 
-If the algorithm is hard to break, it's a much better way to encrypt messages than a substitution cipher. Messages can be sent publicly, but only the recipient who is aware of the password can decrypt it. Much of the history of cryptography--even military communication/intelligence--has been dedicated towards either developing stronger algorithms or trying to break current algorithms.
+In an ideal world, if the algorithm is hard to break, it's a much better way to encrypt messages than a substitution cipher. Messages can be sent publicly, but only the recipient who is aware of the password can decrypt it. Much of the history of cryptography--even military communication/intelligence--has been dedicated towards either developing stronger algorithms or trying to break current algorithms.
 
 The rapid increase of computing power beginning in the 1970s transformed the cryptography landscape. Hundreds of algorithms have been developed and hundreds have been broken, and underscore the need for cyber and IT security measures. There are three algorithms which are notable for their resistance to decryption and their wide-spread usage.
 
