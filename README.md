@@ -1,6 +1,6 @@
 # Ecryption-Foundations
 
-#Basic Cryptography
+###BASIC CRYPTOGRAPHY
 
 #Understanding Symmetric-Key Algorithms
 
