@@ -1,4 +1,4 @@
-# Ecryption-Foundations
+# Encryption-Foundations
 
 BASIC CRYPTOGRAPHY
 
