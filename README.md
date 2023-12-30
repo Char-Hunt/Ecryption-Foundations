@@ -2,7 +2,7 @@
 
 BASIC CRYPTOGRAPHY
 
-Understanding Symmetric-Key Algorithms
+**Understanding Symmetric-Key Algorithms**
 
 A Symmetric-Key Algorithm uses a string of data for encryption or decryption of information. This string performs like a real-world key which can unlock or lock a door. It is often referred to as a "key" or a "password". With symmetric-key algorithms, the same key is used for encrypting and for decrypting (This is why it's called "symmetric").
 
